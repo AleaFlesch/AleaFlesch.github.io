@@ -18,13 +18,13 @@ body {
   height: 700px;
 	width: 60%;
   float: left;
-	line-height: 1.2em;
   text-align: center;
 	position: relative;
   border: pointed 3px;
 	margin-left: 20%;
 	margin-right: 20%;
   margin-bottom: 20px;
+  margin-top: 20px;
   padding: 1em;
 	
 }
@@ -35,13 +35,13 @@ h1 {
 }
 
 h2 {
-	font-size:1.6em;
-	line-height: 1em;
+	font-size:1.7em;
+	line-height: 0.8em;
 }
 
 h3 {
-	font-size:1.8em;
-	line-height: 1em;
+	font-size:1.6em;
+	line-height: 0.8em;
 }
 
 img {
