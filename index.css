@@ -41,7 +41,7 @@ h2 {
 
 h3 {
 	font-size:1.4em;
-	line-height: 0.8em;
+	line-height:1em;
 }
 
 img {
@@ -51,5 +51,6 @@ img {
 a {
 	text-decoration: none;
 	color: #D94C71;
-	font-weight: 1.5em;
+	letter-spacing: 0.5em;
+	font-size:1.1em;
 }
