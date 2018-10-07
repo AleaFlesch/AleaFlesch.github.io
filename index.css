@@ -15,16 +15,16 @@ body {
 
 .box {
 	background-color: #E0DDDE;
-  height: 700px;
-	width: 60%;
+  height: 900px;
+	width: 50%;
   float: left;
   text-align: center;
 	position: relative;
   border: pointed 3px;
 	margin-left: 20%;
 	margin-right: 20%;
-  margin-bottom: 20px;
-  margin-top: 20px;
+  margin-bottom: 10%;
+  margin-top: 10%;
   padding: 1em;
 	
 }
