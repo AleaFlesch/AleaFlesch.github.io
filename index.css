@@ -15,7 +15,7 @@ body {
 
 .box {
 	background-color: #D94C71;
-  height: 5000px;
+  height: 700px;
 	width: 60%;
   float: left;
 	line-height: 1.2em;
@@ -45,5 +45,5 @@ h3 {
 }
 
 img {
-	max-width: 40%;
+	max-width: 20%;
 }
