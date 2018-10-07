@@ -30,20 +30,20 @@ body {
 }
 
 h1 {
-	font-size: 2em;
+	font-size: 4em;
 	line-height: 1em;
 }
 
 h2 {
-	font-size:1.7em;
+	font-size:1em;
 	line-height: 1em;
 }
 
 h3 {
-	font-size:1.5em;
+	font-size:1.3em;
 	line-height: 1em;
 }
 
 img {
-	max-width: 20%;
+	max-width: 30%;
 }
